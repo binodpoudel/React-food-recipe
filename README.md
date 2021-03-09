@@ -1,12 +1,13 @@
 
 
-Then, clone the repo from github to your machine
+ Clone the repo from github to your machine
 
 git clone https://github.com/binodpoudel/React-food-recipe.git
 Then, navigate into the directory
 
 
-API_KEY="Your API key"
+API_KEY="Your API KEY"
+APP_ID="Yout ID"
 
 This program is dependent that you already have node installed on your machine and node package manager. Afterwards run the install command.
 
