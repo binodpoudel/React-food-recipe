@@ -1,6 +1,5 @@
 
-First go signup and obtain an API from YouTube, following the instructions on this site 
-https://developers.google.com/youtube/v3/getting-started
+
 Then, clone the repo from github to your machine
 
 git clone https://github.com/binodpoudel/React-food-recipe.git
